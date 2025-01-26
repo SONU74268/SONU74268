@@ -41,9 +41,10 @@ In both anime and coding, I value resilience, creativity, and teamwork. My journ
 
 ### 📬 Let’s Connect!  
 Want to collaborate or share ideas? Feel free to reach out:  
-- **GitHub:** [Your GitHub Profile](https://github.com/sonu74268)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shanti-lal-prajapat-0b94b8180/)
-- **Email:** [Your Email](mailto:shantilal3377@gmail.com)  
+- **GitHub:** [Shanti Lal](https://github.com/sonu74268) [Freshworks Git](https://github.com/Shantilal-85)
+
+- **LinkedIn:** [Shanti Lal Prajapat](https://www.linkedin.com/in/shanti-lal-prajapat-0b94b8180/)
+- **Email:** [shantilal3377@gmail.com](mailto:shantilal3377@gmail.com)  
 
 ---
 
